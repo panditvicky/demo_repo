@@ -1,1 +1,2 @@
 This is second file for GitHub training
+This modification is for merge demo
